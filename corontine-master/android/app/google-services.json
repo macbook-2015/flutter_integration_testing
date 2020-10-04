@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "550463999650",
+    "firebase_url": "https://cov-diary.firebaseio.com",
+    "project_id": "cov-diary",
+    "storage_bucket": "cov-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550463999650:android:2dd3f745a6b679521a91fb",
+        "android_client_info": {
+          "package_name": "cestik.app.coviddiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550463999650-2j9dolojhaji6nj1866h1toe98i6l535.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmpyE6HMtPJwDL80H8lk-7_qfPPobcwaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550463999650-2j9dolojhaji6nj1866h1toe98i6l535.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
